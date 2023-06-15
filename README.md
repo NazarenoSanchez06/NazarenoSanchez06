@@ -3,7 +3,14 @@
 
 - 📫 How to reach me **nsanchezpa@ucvvirtual.edu.pe**
 
-
+## 👀 Habilidades:
+Desarrollo frontend con Angular
+Conexión del frontend con el backend utilizando Node.js y MongoDB
+Manejo de versiones con GitLab
+Lenguajes de programación: C#, C++, Java
+Experiencia en bases de datos: MySQL y SQL Server
+Diseño de frontend utilizando Tailwind CSS y Bootstrap
+Desarrollo de aplicaciones móviles con Ionic
 
 ## 💻 Languages and Tools:
 <table align="center"><tr><td valign="top" width="25%" align="center">
