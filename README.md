@@ -52,3 +52,36 @@
   </p>
 </div>
   
+  
+ 
+</td><td valign="top" width="25%" align="center">
+  
+### Tools
+<div align="center" style="padding:15px">  
+  <p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" alt="Sublime Text" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40" height="40"/>
+  </p>
+</div>
+  
+</td></tr></table>  
+
+
+
+## 😀 Contact with me:
+<p align="center">
+<a href="https://www.linkedin.com/in/nazareno-salvador-sanchez-pacherres-585839274" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazareno" height="30" width="40" />
+</a>
+
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+
+</p>
+
