@@ -110,8 +110,7 @@ http://localhost:3000/flights/id/passengers
 
 ## Tecnologías utilizadas
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-* **JavaScript**  
+* **JavaScript**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
 
 
 
