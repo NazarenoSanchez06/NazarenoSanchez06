@@ -1,16 +1,16 @@
 #   Simulación check-in de aerolínea
 
-##  Tabla de contenidos
+## Tabla de contenidos
 
-1. [Descripción](#descripción)
-2. [Instalación](#instalación)
+1. [Descripción](#Dx|escripción)
+2. [Instalación](#Instalación)
 3. [Tecnologías utilizadas](#Tecnologías-utilizados)
 4. [Demo](#demo)
 5. [Autor](#Autor)
 
 ## Descripción
 En el ejercicio se necesitas desarrollar una API REST con un único endpoint que permita consultar por el ID del vuelo y retorne la simulación de un check-in automático de los pasajeros de la aerolínea Andes Airlines. Además, se cuenta con una base de datos en MySQL de solo lectura que se utilizará para la simulación. con  total libertad de elegir el lenguaje de programación y el framework que desees utilizar.
-ERD
+* ERD
 
 
 ![erd](https://user-images.githubusercontent.com/61089189/228735639-08f7e264-8b2b-4c24-962d-c719dc37626f.png)
@@ -110,7 +110,7 @@ http://localhost:3000/flights/id/passengers
 
 ## Tecnologías utilizadas
 
-* **JavaScript**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+* **JavaScript**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 
 
 
