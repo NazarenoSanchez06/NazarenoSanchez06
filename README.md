@@ -89,7 +89,7 @@ $ git clone https://github.com/NazarenoSanchez06/Desafio-Bsale.git
 $ cd "carpeta donde se clonó"
 ```
 
-3. Ix|nstalar las dependencias
+3. Instalar las dependencias
 
 ```bash
 $ npm install
