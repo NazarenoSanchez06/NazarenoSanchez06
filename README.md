@@ -1,6 +1,6 @@
 #   Simulación check-in de aerolínea
 
-## Tabla de contenidos
+##  Tabla de contenidos
 
 1. [Descripción](#descripción)
 2. [Instalación](#instalación)
@@ -9,20 +9,22 @@
 5. [Autor](#Autor)
 
 ## Descripción
-En el ejercicio se necesitas desarrollar una API REST con un único endpoint que permita consultar por el ID del vuelo y retorne la simulación de un check-in automático de los pasajeros de la aerolínea Andes Airlines. Además, se cuenta con una base de datos en MySQL de solo lectura que se utilizará para la simulación. Tienes total libertad para elegir el lenguaje de programación y el framework que desees utilizar.
-
+En el ejercicio se necesitas desarrollar una API REST con un único endpoint que permita consultar por el ID del vuelo y retorne la simulación de un check-in automático de los pasajeros de la aerolínea Andes Airlines. Además, se cuenta con una base de datos en MySQL de solo lectura que se utilizará para la simulación. con  total libertad de elegir el lenguaje de programación y el framework que desees utilizar.
 ERD
+
+
 ![erd](https://user-images.githubusercontent.com/61089189/228735639-08f7e264-8b2b-4c24-962d-c719dc37626f.png)
 
-1. Detalles del ejercicio:
-2. Una compra puede tener múltiples tarjetas de embarque asociadas.
-3. Las tarjetas de embarque pueden no tener un asiento asociado inicialmente, pero siempre tendrán un tipo de asiento.
-4. Al retornar la simulación del check-in, se debe asignar un asiento a cada tarjeta de embarque.
-5. Los pasajeros menores de edad deben estar sentados junto a al menos uno de sus acompañantes mayores de edad. Esto se puede lograr agrupando por el ID de la compra.
-6. En la medida de lo posible, si una compra tiene varias tarjetas de embarque, se debe intentar asignar asientos contiguos o cercanos (ya sea en la fila o en la columna).
-7. Si una tarjeta de embarque pertenece a la clase "económica", no se puede asignar un asiento de otra clase.
 
-8. El servicio debe tener la siguiente estructura:
+   Detalles del ejercicio:
+1. Una compra puede tener múltiples tarjetas de embarque asociadas.
+2. Las tarjetas de embarque pueden no tener un asiento asociado inicialmente, pero siempre tendrán un tipo de asiento.
+3. Al retornar la simulación del check-in, se debe asignar un asiento a cada tarjeta de embarque.
+4. Los pasajeros menores de edad deben estar sentados junto a al menos uno de sus acompañantes mayores de edad. Esto se puede lograr agrupando por el ID de la compra.
+5. En la medida de lo posible, si una compra tiene varias tarjetas de embarque, se debe intentar asignar asientos contiguos o cercanos (ya sea en la fila o en la columna).
+6. Si una tarjeta de embarque pertenece a la clase "económica", no se puede asignar un asiento de otra clase.
+
+7. El servicio debe tener la siguiente estructura:
 ```
 Método: GET
 Ruta: /flights/:id/passengers
@@ -108,16 +110,8 @@ http://localhost:3000/flights/id/passengers
 
 ## Tecnologías utilizadas
 
-* **TypeScript** (v. 4.9.4) [Source](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-* **Express** (v. 4.18.2)  [Source](https://www.npmjs.com/package/express)
-* **Prisma** (v. 4.9.0) [Source](https://www.prisma.io/docs)
-* **nodemon** (v. 2.0.20) [Source](https://www.npmjs.com/package/nodemon)
-* **cors** (v. 2.8.5) [Source](https://www.npmjs.com/package/cors)
-* **dotenv** (v. 16.0.3) [Source](https://www.npmjs.com/package/dotenv)
-* **concurently**  (v. 7.6.0) [Source](https://www.npmjs.com/package/concurrently)
-* **ts-node**  (v. 10.9.1) [Source](https://www.npmjs.com/package/ts-node)
-* **tslib**  (v. 2.4.1) [Source](https://www.npmjs.com/package/tslib)
-* **ts-retry-promise** (v. 0.7.0) [Source](https://www.npmjs.com/package/ts-retry-promise)
+* **JavaScript**  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
 
 
 
