@@ -114,9 +114,8 @@ http://localhost:3000/flights/id/passengers
 * **mysql2** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25"/> 
 * **Express** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="25" height="25"/> 
 * **Nodejs** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/>
-* **dotenv** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotenv" width="25" height="25"/>
-
+* **dotenv**
 
 
 ## Autor
-- [Nazareno Salvador Sanchez Pacherres]
+- Nazareno Salvador Sanchez Pacherres
