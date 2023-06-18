@@ -90,7 +90,7 @@ $ git clone https://github.com/NazarenoSanchez06/Desafio-Bsale.git
 $ cd "carpeta donde se clonó"
 ```
 
-3. instalar las dependencias
+3. Ix|nstalar las dependencias
 
 ```bash
 $ npm install
@@ -117,11 +117,7 @@ http://localhost:3000/flights/id/passengers
 * **Nodejs** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/>
 * **dotenv** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotenv" width="25" height="25"/>
 
-## Demo
-Para el despliegue del proyecto se utilizó Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://simulacion-check-in-aerolinea.vercel.app)
 
 
 ## Autor
-- [Gefferson Casasola](https://github.com/Geffrerson7)
+- [Nazareno Salvador Sanchez Pacherres]
