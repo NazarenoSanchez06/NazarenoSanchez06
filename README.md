@@ -8,7 +8,7 @@
   <li>Desarrollo frontend con Angular</li>
   <li>Conexión del frontend con el backend utilizando Node.js y MongoDB</li>
   <li>Manejo de versiones con Git</li>
-  <li>Lenguajes de programación: C#, C++, Java,Java Scrpt</li>
+  <li>Lenguajes de programación: C#, C++, Java,Java Script</li>
   <li>Experiencia en bases de datos: MySQL y SQL Server</li>
   <li>Diseño de frontend utilizando Tailwind CSS y Bootstrap</li>
   <li>Desarrollo de aplicaciones móviles con Ionic</li>
